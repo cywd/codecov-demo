@@ -1,5 +1,7 @@
 # codecov-demo
 
+[![codecov](https://codecov.io/gh/cywd/codecov-demo/branch/main/graph/badge.svg?token=PDK1ULO900)](https://codecov.io/gh/cywd/codecov-demo)
+
 ## Project setup
 ```
 npm install
